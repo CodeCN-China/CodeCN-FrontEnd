@@ -4,7 +4,9 @@
   "description": "CodeCN-前端代码",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "umi": "^2.2.7"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
